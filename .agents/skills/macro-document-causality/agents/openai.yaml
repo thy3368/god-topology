@@ -1,4 +1,4 @@
 interface:
   display_name: "Macro Document Causality"
   short_description: "Trace China macro claims to documents"
-  default_prompt: "Use $macro-document-causality to test whether a China macro policy claim is supported by document-level evidence."
+  default_prompt: "Use $macro-document-causality to test a China macro policy claim against document-level evidence, or draft a Markdown research report when I explicitly ask for one."

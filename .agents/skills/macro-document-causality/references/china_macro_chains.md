@@ -18,13 +18,24 @@ document chain:
 - Level 5: developer cash receipts, inventory reduction, impairment reversal or recognition, SOE platform assets/liabilities, local fiscal impact.
 - Level 6: local inventory months, new-home prices, second-hand prices, sales area, completed-home inventory, developer funding sources.
 
+city-level verification fields:
+- acquisition city and district.
+- project name, developer, and property status: completed, existing home, or pending delivery.
+- acquired units, floor area, acquisition price, discount to market price, and intended affordable-housing use.
+- acquiring entity, ultimate controller, funding source, loan bank, borrower, and credit facility.
+- payment status, bank disbursement status, deed-transfer status, delivery/acceptance status, and conversion approval status.
+- developer financial statement mapping: cash received, inventory reduction, receivables, impairment, debt repayment, or related-party transaction.
+- local market data matched to the city: saleable inventory, inventory months, new-home prices, second-hand prices, sales area, completed-home stock, and developer funding sources.
+
 where to verify:
-- Policy and implementation plans: People's Bank of China, Ministry of Housing and Urban-Rural Development, city housing bureau, city government website.
-- Project lists and acquisition notices: city housing bureau, state-owned assets supervision commission, public resource trading center.
-- Bidding and winning-bid documents: China Government Procurement Network, provincial/city government procurement network, provincial/city public resource trading center.
-- Property transfer and delivery: local real estate registration center is often non-public; use public announcements, SOE disclosures, listed developer announcements, and local housing bureau notices as public proxies.
-- Developer financial impact: Shanghai/Shenzhen/Hong Kong stock exchange filings, company interim/annual reports, bond issuer reports.
-- Local macro confirmation: National Bureau of Statistics, local statistics bureau, housing bureau inventory data, CRIC/China Index Academy if official inventory data is missing.
+- Publicly searchable policy and implementation plans: People's Bank of China, Ministry of Housing and Urban-Rural Development, city housing bureau, city government website.
+- Publicly searchable project lists and acquisition notices: city housing bureau, state-owned assets supervision commission, public resource trading center.
+- Publicly searchable bidding and winning-bid documents: China Government Procurement Network, provincial/city government procurement network, provincial/city public resource trading center.
+- Publicly searchable financing documents: bank announcements where available, listed bank reports, SOE platform bond prospectuses, ChinaBond, Shanghai Clearing House.
+- Usually non-public/internal records: payment vouchers, deed-transfer registration, bank disbursement ledgers, acceptance forms, detailed purchase contracts, and household-level allocation ledgers.
+- Public proxies for non-public records: public announcements, SOE disclosures, listed developer announcements, bond issuer reports, local housing bureau notices, audit reports, budget execution reports, and changes in listed developer inventory/cash-flow notes.
+- Publicly searchable developer financial impact: Shanghai/Shenzhen/Hong Kong stock exchange filings, company interim/annual reports, bond issuer reports.
+- Public macro or proxy variables: National Bureau of Statistics, local statistics bureau, city housing bureau inventory data, real estate transaction center data where public, CRIC/China Index Academy if official inventory data is missing.
 
 key distinctions:
 - Announced收储规模 is not actual purchase.
