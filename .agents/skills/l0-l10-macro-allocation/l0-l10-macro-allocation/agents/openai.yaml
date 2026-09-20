@@ -1,0 +1,4 @@
+interface:
+  display_name: "L0-L10 Macro Allocation"
+  short_description: "Layer China macro, industry, risk, and allocation analysis"
+  default_prompt: "Use $l0-l10-macro-allocation to analyze this China macro, industry, regional risk, or asset allocation question with layered evidence, crack-signal validation, and actionable conclusions."
